@@ -1,0 +1,5 @@
+C:\Users\ks185471\source\repos\Design Patterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\ks185471\source\repos\Design Patterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\ks185471\source\repos\Design Patterns\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\ks185471\source\repos\Design Patterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\ks185471\source\repos\Design Patterns\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
